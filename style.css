@@ -1,0 +1,25 @@
+.header {
+    background: rgb(172, 53, 53);
+    text-align: center;
+    color: white;
+}
+
+.text {
+    color:blue;
+    font-size: 18px;
+
+}
+
+.cars {
+    border-style: dashed;
+}
+.allCars {
+    text-align: center;
+}
+
+.footer {
+    background: #000;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
